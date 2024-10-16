@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa68791e425bef84ea969f06bfb20f24, type: 3}
+  m_Name: CelestialBodyData
+  m_EditorClassIdentifier: 
+  bodyName: Earth
+  hasOrbit: 1
+  rotationSpeed: 15
+  orbitSpeed: 0.05
+  semiMajorAxis: 50
+  semiMinorAxis: 48
+  orbitLineColor: {r: 0.14572382, g: 0, b: 1, a: 1}
+  radius: 1
+  mass: 5.972e+24
+  scale: {x: 1, y: 1, z: 1}
+  positionOffset: {x: 0, y: 0, z: 0}
